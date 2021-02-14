@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hello I am MathInDOS (DimCmd) and I am a learner of C, C++. I also now learning Lua. There are some repo here let's choose one.
+
 <!--
 **MathInDOS/MathInDOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
