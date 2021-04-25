@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello I am Sofia (DimCmd) and I am a learner of C, C++. I also now learning Lua, C#. (Trying to catch Rust) There are some repo here let's choose one.
+Hello! I'm just a intermediate devoloper in some languages, most of do random projects, have any idea, join our Discord Server to talk more! Link: https://discord.gg/JgXUPAQHRy
 
 <!--
 **MathInDOS/MathInDOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
