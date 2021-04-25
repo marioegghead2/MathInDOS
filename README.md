@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello! I'm just a intermediate devoloper in some languages, most of do random projects, have any idea, join our Discord Server to talk more! Link: https://discord.gg/JgXUPAQHRy
+Hello! I'm just a intermediate devoloper in some languages, most of do random stuffs, have any idea, join our Discord Server to talk more! Invite Link: https://discord.gg/JgXUPAQHRy
 
 <!--
 **MathInDOS/MathInDOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
